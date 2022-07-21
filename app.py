@@ -17,7 +17,7 @@ def predict_quality(model, df):
     
 
 
-model = load_model('gbr')
+model = load_model('salud_model')
 
 
 st.image('1615502068951.jpeg', use_column_width=False, width=500)
