@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dm/Desktop/ejercicio/mlruns/1/f4db8acab9594a4298afb3d560976529/artifacts
+end_time: 1658395679708
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: f4db8acab9594a4298afb3d560976529
+run_uuid: f4db8acab9594a4298afb3d560976529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658395660771
+status: 3
+tags: []
+user_id: dm
