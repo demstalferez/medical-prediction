@@ -20,7 +20,6 @@ def predict_quality(model, df):
 model = load_model('salud_model')
 
 
-st.image('1615502068951.jpeg', use_column_width=False, width=500)
 st.title('Medical power')
 st.write('NOT FOR COMERCIAL USE, IS A TEST FOR WINE QUALITY.')
 
