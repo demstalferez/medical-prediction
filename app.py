@@ -1,6 +1,6 @@
 from readline import set_pre_input_hook
 from sys import setprofile
-from pycaret.classification import load_model, predict_model
+from pycaret.regression import *
 import streamlit as st
 import pandas as pd
 import plotly as py
